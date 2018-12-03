@@ -1,11 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79111ac1-f2f4-46f6-8540-e18748d7c120" name="Default Changelist" comment="" />
+    <list default="true" id="79111ac1-f2f4-46f6-8540-e18748d7c120" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OxStore/CSS/style_index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OxStore/html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QRCode.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gosuslugi/Js/creedit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gosuslugi/Js/order.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gosuslugi/creedit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gosuslugi/css/creedit_style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gosuslugi/css/fales.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gosuslugi/css/index_style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gosuslugi/css/services_style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gosuslugi/css/speed_style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gosuslugi/fales.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gosuslugi/img/creedit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gosuslugi/img/fales.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gosuslugi/img/house.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gosuslugi/img/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gosuslugi/img/nalog.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gosuslugi/img/passport.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gosuslugi/img/russian.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gosuslugi/img/speed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gosuslugi/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gosuslugi/services.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gosuslugi/speed.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/Artsc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/Prickfiles/Progeckt/1-night.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/Prickfiles/Progeckt/Cat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/Prickfiles/Progeckt/ColorPicker_files.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/Prickfiles/Progeckt/Generator.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/Prickfiles/Progeckt/Reality.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/Prickfiles/Progeckt/Sun.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/Prickfiles/Progeckt/Tools.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/Prickfiles/Progeckt/apwar.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/Prickfiles/Progeckt/apwar_installer_Mac_ubuntu.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/Prickfiles/Progeckt/apwar_win.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/Prickfiles/Progeckt/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/Prickfiles/Progeckt/night.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/Prickfiles/Progeckt/sceen1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/Prickfiles/Progeckt/style_index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/Prickfiles/css/style_download.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/Prickfiles/css/style_index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/Prickfiles/download.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/Prickfiles/download/apwar_windows.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/Prickfiles/img/download.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/Prickfiles/img/download.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/Prickfiles/img/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/Prickfiles/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/drinks.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/img/beta.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/img/drink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/img/finish.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/img/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/img/logo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/img/logoc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/img/order.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/img/star-+.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/img/star.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/menu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/olymp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/order.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/order.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/scrypt_olymp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style_olymp.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/.idea/dictionaries/Irina.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/.idea/site.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/.idea/vagrant.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/css/css4v.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/css/mobile.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/css/rotonda/RotondaC-Bold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/css/rotonda/RotondaC-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/css/rotonda/RotondaC-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/css/rotonda/RotondaC.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/css/rotonda/RotondaC.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/css/rotonda/RotondaC.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/css/rotonda/demo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/css/rotonda/rotonda.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/download/VT 5.0.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/download/№1 rus.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/html/acses.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/html/ankform.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/html/dej.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/html/download.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/html/men.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/html/olymps.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/html/ras.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/html/uchi.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/img/ico.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/img/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/img/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/js/non.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/olymp mat/olymp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/olymp mat/scrypt_olymp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/olymp mat/style_olymp.css" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,88 +161,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/html/men.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="598">
-              <caret line="26" column="75" selection-start-line="26" selection-start-column="75" selection-end-line="26" selection-end-column="75" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/html/ras.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/html/dej.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/html/uchi.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="17" column="55" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/site/html/download.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="31" column="77" selection-start-line="31" selection-start-column="77" selection-end-line="31" selection-end-column="77" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/html/olymps.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/html/ankform.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/js/non.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/css/mobile.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/css/css4v.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="162" column="19" selection-start-line="162" selection-start-column="19" selection-end-line="162" selection-end-column="19" />
+            <state relative-caret-position="172">
+              <caret line="36" column="202" selection-start-line="36" selection-start-column="202" selection-end-line="36" selection-end-column="202" />
             </state>
           </provider>
         </entry>
@@ -164,7 +188,6 @@
       <list>
         <option value="$PROJECT_DIR$/index/menu.html" />
         <option value="$PROJECT_DIR$/index/drinks.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/site/html/acses.html" />
         <option value="$PROJECT_DIR$/site/html/dej.html" />
         <option value="$PROJECT_DIR$/site/html/olymps.html" />
@@ -180,6 +203,7 @@
         <option value="$PROJECT_DIR$/site/html/ankform.html" />
         <option value="$PROJECT_DIR$/site/html/index.html" />
         <option value="$PROJECT_DIR$/site/html/download.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -200,41 +224,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="arts31.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="arts31.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="arts31.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="arts31.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="arts31.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="arts31.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="arts31.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="arts31.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
-              <item name="html" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="arts31.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="arts31.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="4v1018.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="4v1018.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -242,6 +243,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.prettier" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -285,33 +289,34 @@
       <workItem from="1542810440074" duration="96000" />
       <workItem from="1542810726702" duration="2216000" />
       <workItem from="1542970007411" duration="276000" />
+      <workItem from="1543843963012" duration="257000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8386000" />
+    <option name="totallyTimeSpent" value="8643000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="0" y="0" width="1366" height="732" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.130033" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12956068" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32934132" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32934132" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32934132" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -321,17 +326,73 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/site/html/men.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="26" column="75" selection-start-line="26" selection-start-column="75" selection-end-line="26" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/html/ras.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/html/dej.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/html/uchi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="55" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/html/olymps.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/html/ankform.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/css/mobile.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/css/css4v.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3888">
+          <caret line="162" column="19" selection-start-line="162" selection-start-column="19" selection-end-line="162" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/html/download.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="31" column="77" selection-start-line="31" selection-start-column="77" selection-end-line="31" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index/menu.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="373">
           <caret line="156" column="15" lean-forward="true" selection-start-line="156" selection-start-column="15" selection-end-line="156" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="216" column="68" selection-start-line="216" selection-start-column="68" selection-end-line="216" selection-end-column="68" />
         </state>
       </provider>
     </entry>
@@ -341,12 +402,6 @@
           <caret line="111" column="23" selection-start-line="111" selection-start-column="23" selection-end-line="111" selection-end-column="23" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/OxStore/html/index.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -378,14 +433,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/site/html/men.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
+        <state relative-caret-position="624">
           <caret line="26" column="75" selection-start-line="26" selection-start-column="75" selection-end-line="26" selection-end-column="75" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/site/html/ras.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
+        <state relative-caret-position="408">
           <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
         </state>
       </provider>
@@ -406,31 +461,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/site/html/olymps.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
+        <state relative-caret-position="408">
           <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/site/html/ankform.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
+        <state relative-caret-position="168">
           <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/js/non.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/site/css/mobile.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
+        <state relative-caret-position="384">
           <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/site/css/css4v.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
+        <state relative-caret-position="3888">
           <caret line="162" column="19" selection-start-line="162" selection-start-column="19" selection-end-line="162" selection-end-column="19" />
         </state>
       </provider>
@@ -439,6 +491,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="373">
           <caret line="31" column="77" selection-start-line="31" selection-start-column="77" selection-end-line="31" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="36" column="202" selection-start-line="36" selection-start-column="202" selection-end-line="36" selection-end-column="202" />
         </state>
       </provider>
     </entry>
