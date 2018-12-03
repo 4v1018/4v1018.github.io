@@ -29,4 +29,16 @@ function nonEmail(inputField, helpText) {
             helpText.innerHTML = "";
           return true;
         }
-      }
+}
+function stopSumbit(form) {
+  if (nonEmpty(form["name"], form["name_help"])
+      && nonEmail(form['e-mail'], form['emhelp'])
+      && nonEmpty(form["name2"], form["name2_help"])
+      && nonEmpty(form["help3"], form["help3_h"])
+      && nonEmpty(form["help4"], form["help4_h"])) {
+    form.submit();
+  }
+  else {
+    alert("Вы заполнили форму неправильно")
+  }
+}

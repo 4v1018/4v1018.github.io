@@ -34,19 +34,27 @@
 					<table class="form">
 						<tr>
 							<td>Имя*</td>
-							<th><input type="text" name="name" id="name" onblur="nonEmpty(this, document.getElementById('help'))"><span id="help" class="helper"></span></th>
+							<th><input type="text" name="name" id="name"
+									   onblur="nonEmpty(this,
+									   document.getElementById('name_help'))"><span id="name_help" class="helper"></span></th>
 						</tr>
 						<tr>
 							<td>Фамилия*</td>
-							<th><input type="text" name="name2" id="name2" onblur="nonEmpty(this, document.getElementById('help2'))"><span id="help2" class="helper"></span></th>
+							<th><input type="text" name="name2" id="name2"
+									   onblur="nonEmpty(this,
+									   document.getElementById('name2_help'))"><span id="name2_help" class="helper"></span></th>
 						</tr>
 						<tr>
 							<td>Дата рождения*</td>
-							<th><input type="text" name="date" id="date" onblur="nonEmpty(this, document.getElementById('help3'))"><span id="help3" class="helper"></span></th>
+							<th><input type="text" name="help3" id="help3"
+									   onblur="nonEmpty(this,
+									   document.getElementById('help3_h'))"><span id="help3_h" class="helper"></span></th>
 						</tr>
 						<tr>
 							<td>Имя и фамилия родителей*</td>
-							<th><input type="text" name="namepar" id="namepar" onblur="nonEmpty(this, document.getElementById('help4'))"><span id="help4" class="helper"></span></th>
+							<th><input type="text" name="help4"
+									   id="help4" onblur="nonEmpty(this,
+									   document.getElementById('help4_h'))"><span id="help4_h" class="helper"></span></th>
 						</tr>
 						<tr>
 							<td>Электронная почта*</td>
@@ -69,7 +77,8 @@
 				</td>
 			</tr>
 		</table>
-		<input type="submit" id="gome" value="Зарегистрироватся" onclick="nonEmpty(this.form)">
+		<input type="button" id="gome" value="Зарегистрироватся"
+			   onclick="stopSumbit(document.getElementsByTagName('form')[0])">
 	</div>
 	</form>
 </body>
