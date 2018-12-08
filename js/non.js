@@ -16,7 +16,7 @@ function nonEmail(inputField, helpText) {
           return false;
         return validateRegEx(/^[\w\.-_\+]+@[\w-]+(\.\w{2,3})+$/,
           inputField.value, helpText,
-          "введите правильную эл. почту(например имя@дамен.дамен).");
+          "введите правильную эл. почту(например, имя@домен.домен).");
       }
  function validateRegEx(regex, input, helpText, helpMessage) {
         if (!regex.test(input)) {
